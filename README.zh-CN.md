@@ -110,3 +110,7 @@ Tests/NIZKitTests  用真机抓包数据做的编解码测试
 ## 免责声明
 
 本项目是非官方的，与 NIZ 无关。写入键盘的风险由使用者自己承担，请先用 `nizctl backup` 备份。
+
+## 许可证
+
+[MIT](LICENSE)

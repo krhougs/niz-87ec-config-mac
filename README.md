@@ -119,3 +119,7 @@ Tests/NIZKitTests  codec tests using packets captured from a real keyboard
 
 Unofficial, not affiliated with NIZ. Writing to the keyboard is at your own risk; keep
 a backup (`nizctl backup`).
+
+## License
+
+[MIT](LICENSE)
